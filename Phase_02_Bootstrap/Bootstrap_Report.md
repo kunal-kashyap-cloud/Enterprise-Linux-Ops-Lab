@@ -3,7 +3,7 @@ Phase 02: Enterprise Bootstrap Report
 Status: Completed & Verified
 1. Executive Summary
 
-A full-stack environment provisioning was performed on RHEL/Rocky Linux 10.2. Core enterprise toolsets were deployed to enable monitoring, networking diagnostics, and containerized application support.
+A full-stack environment provisioning was performed on Rocky Linux 10. Core enterprise toolsets were deployed to enable monitoring, networking diagnostics, and containerized application support.
 2. Technical Execution Log
 
     Root Access: sudo -i (Escalated to root for system-wide configuration).
